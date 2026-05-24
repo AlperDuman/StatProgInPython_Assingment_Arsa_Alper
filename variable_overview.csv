@@ -1,0 +1,27 @@
+﻿exam_variable,source_variable,english_item_question,domain
+respid,respid,Respondent identifier,Administrative
+sample_frame,sample,"Sample frame (landline, mobile, SMS online)",Administrative
+survey_mode,mode,Survey mode (CATI or CAWI),Administrative
+interview_month,intmonth,Interview month,Administrative
+interview_week,intweek,Interview week,Administrative
+rep_weight,pwght,Representative weight factor,Weights
+region_type,v2,Did your district belong to former West or East Germany?,Region
+municipality_size,v3,Approximately how many inhabitants does your place of residence have?,Region
+sex,v175,Gender of respondent,Demographics
+age_group,v176,Age (grouped),Demographics
+school_degree,v177,What is your highest school-leaving certificate?,Education
+target_school_degree,v178,If still in school: which school certificate are you aiming for?,Education
+university_degree,v179,Do you have a completed university/FH degree?,Education
+vocational_training,v180,Do you have completed vocational training/apprenticeship?,Education
+employment_status,v181,Are you currently employed? (detailed status),Employment
+job_security,v182,How secure do you consider your job?,Employment
+occupational_status,v183,Occupational status/professional position,Employment
+household_size,v184,"How many people live in your household, including yourself?",Household
+household_adults,v185,How many household members are aged 18 or older?,Household
+household_union_members,v186,Are you or anyone else in your household a union member?,Household
+religion,v187,Religious affiliation/denomination,Sociocultural
+church_attendance,v188,How often do you attend church services?,Sociocultural
+party_id_exists,v189,Do you identify with a political party?,Politics
+party_id_party,v190,If yes: which party do you identify with?,Politics
+party_id_strength,v191,How strong is your party identification?,Politics
+vote_class,v15,Recall vote in Bundestag election 2021 (aggregated target class),Target
